@@ -1,10 +1,11 @@
 # CIS_11_Project_Team2
 CIS 11 Course Project for Team 2
 Option B: Test Score Calculator
-	Program 
-Create an LC-3 program that displays the minimum, maximum and average grade of 5 test scores and display the letter grade associated with the test scores. 
+	
+Program: Create an LC-3 program that displays the minimum, maximum and average grade of 5 test scores and display the letter grade associated with the test scores. 
 Input: User is prompt to input the test scores.
 Output: Display maximum, minimum, average scores and letter grade equivalence (0 – 50 = F, 60 – 69 = D, 70 – 79 = C, 80 – 89 = B, 90 – 100 = A) on the console.
+
 The program must fulfill the following criteria:
 1.	Contain appropriate addresses: origination, fill, array, input and output. (20 points)
 2.	Display minimum, max, average values/grades in console. (20 points)
